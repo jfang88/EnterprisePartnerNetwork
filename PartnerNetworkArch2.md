@@ -32,7 +32,7 @@ Target state:
 > - GitLab or another Mermaid‑enabled renderer  
 > - Or an online Mermaid live editor.
 
-```mermaid
+``` mermaid
 ***
 title: Mission‑critical extranet with F5 GTM / LTM / WAF and private cloud
 ***
