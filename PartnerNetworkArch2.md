@@ -26,8 +26,7 @@ Target state:
 
 ## 2. Mermaid architecture diagram
 
-```
-mermaid
+```mermaid
 ***
 title: Mission‑critical extranet with F5 GTM / LTM / WAF and private cloud
 ***
