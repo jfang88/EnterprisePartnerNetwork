@@ -28,9 +28,7 @@ Target state:
 
 ```
 mermaid
-***
-title: Mission‑critical extranet with F5 GTM / LTM / WAF and private cloud
-***
+
 flowchart TB
     subgraph "External Partners (Private leased lines)"
         A1["Partner Site A\n(Client)"]
