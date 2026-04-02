@@ -26,13 +26,8 @@ Target state:
 
 ## 2. Mermaid architecture diagram
 
-> **Note for GitHub**: native GitHub Markdown does not render Mermaid.  
-> To view this diagram, use:
-> - VS Code with Mermaid plugin  
-> - GitLab or another Mermaid‑enabled renderer  
-> - Or an online Mermaid live editor.
-
-``` mermaid
+```
+mermaid
 ***
 title: Mission‑critical extranet with F5 GTM / LTM / WAF and private cloud
 ***
